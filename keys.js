@@ -1,5 +1,5 @@
 // This is a commented out for keys been loaded. only needed for troubleshooting.
-console.log('keys loaded');
+// console.log('keys loaded');
 
 exports.spotify = {
     id: process.env.SPOTIFY_ID,

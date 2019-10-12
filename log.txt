@@ -1,0 +1,215 @@
+
+REPORT LOG TIMESTAMP: 2019-10-12T19:28:45-04:00
+-----------
+Venue: National University of San Marcos
+City: Lima District
+Date: 11/23/19
+-----------
+Venue: KNOTFEST Mexico
+City: Mexico City
+Date: 11/30/19
+-----------
+Venue: Coliseo General Rumiñahui
+City: Quito
+Date: 11/27/19
+-----------
+Venue: Pedregal Events Center
+City: Heredia
+Date: 12/04/19
+-----------
+Venue: KNOTFEST Colombia
+City: Chía
+Date: 12/06/19
+-----------
+Venue: 3Arena
+City: Dublin
+Date: 01/14/20
+-----------
+Venue: Manchester Arena
+City: Manchester
+Date: 01/16/20
+-----------
+Venue: Utilita Arena
+City: Newcastle Upon Tyne
+Date: 01/17/20
+-----------
+Venue: The SSE Hydro
+City: Glasgow
+Date: 01/18/20
+-----------
+Venue: FlyDSA Arena
+City: Sheffield
+Date: 01/20/20
+-----------
+Venue: Motorpoint Arena
+City: Nottingham
+Date: 01/21/20
+-----------
+Venue: Motorpoint Arena Cardiff
+City: Cardiff
+Date: 01/22/20
+-----------
+Venue: Birmingham Arena
+City: Birmingham
+Date: 01/24/20
+-----------
+Venue: The O2
+City: London
+Date: 01/25/20
+-----------
+Venue: Ziggo Dome
+City: Amsterdam
+Date: 01/28/20
+-----------
+Venue: Festhalle Messe Frankfurt GmbH
+City: Frankfurt Am Main
+Date: 01/29/20
+-----------
+Venue: Accorhotels Arena
+City: Paris
+Date: 01/30/20
+-----------
+Venue: Rockhal
+City: Esch-sur-alzette
+Date: 02/01/20
+-----------
+Venue: Halle Tony Garnier
+City: Lyon
+Date: 02/02/20
+-----------
+Venue: Papp Laszlo Arena
+City: Budapest
+Date: 02/04/20
+-----------
+Venue: Atlas Arena
+City: Łódź
+Date: 02/06/20
+-----------
+Venue: Hanns-Martin-Schleyer-Halle
+City: Stuttgart
+Date: 02/08/20
+-----------
+Venue: Olympiahalle
+City: Munich
+Date: 02/09/20
+-----------
+Venue: Mediolanum Forum
+City: Milan
+Date: 02/11/20
+-----------
+Venue: Hallenstadion
+City: Zürich
+Date: 02/12/20
+-----------
+Venue: Wiener Stadthalle
+City: Vienna
+Date: 02/14/20
+-----------
+Venue: Barclaycard Arena Hamburg
+City: Hamburg
+Date: 02/16/20
+-----------
+Venue: Mercedes-Benz Arena
+City: Berlin
+Date: 02/17/20
+-----------
+Venue: Westfalenhalle 1
+City: Dortmund
+Date: 02/18/20
+-----------
+Venue: Royal Arena
+City: Copenhagen
+Date: 02/20/20
+-----------
+Venue: Ericsson Globe
+City: Stockholm
+Date: 02/21/20
+-----------
+Venue: Telenor Arena
+City: Oslo
+Date: 02/22/20
+-----------
+Venue: Hartwall Arena
+City: Helsinki
+Date: 02/24/20
+-----------
+REPORT LOG TIMESTAMP: 2019-10-12T19:32:25-04:00
+-----------
+Artist: Labrinth
+Song Name: Mount Everest
+URL: https://open.spotify.com/track/18wCJcoFmXZ0jfrFhF6cYS
+-----------
+REPORT LOG TIMESTAMP: 2019-10-12T19:33:05-04:00
+undefined-----------
+Artist: Labrinth
+Song Name: Mount Everest
+URL: https://open.spotify.com/track/18wCJcoFmXZ0jfrFhF6cYS
+-----------
+REPORT LOG TIMESTAMP: 2019-10-12T19:33:42-04:00
+spotify-this-song-----------
+Artist: Labrinth
+Song Name: Mount Everest
+URL: https://open.spotify.com/track/18wCJcoFmXZ0jfrFhF6cYS
+-----------
+REPORT LOG TIMESTAMP: 2019-10-12T19:34:06-04:00
+spotify-this-song
+-----------
+Artist: Labrinth
+Song Name: Mount Everest
+URL: https://open.spotify.com/track/18wCJcoFmXZ0jfrFhF6cYS
+-----------
+REPORT LOG TIMESTAMP: 2019-10-12T19:34:36-04:00
+Command Given: spotify-this-song
+-----------
+Artist: Labrinth
+Song Name: Mount Everest
+URL: https://open.spotify.com/track/18wCJcoFmXZ0jfrFhF6cYS
+-----------
+REPORT LOG TIMESTAMP: 2019-10-12T19:39:28-04:00
+Command Given: movie-this
+-----------
+Movie Title: Mr. NobodyRelease Date: 2009IMDB Rating: 7.8/10Rotten Tomattos Rating: 67%Country Produced: Belgium, Germany, Canada, France, USA, UKLanguage: English, MohawkMovie Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+-----------
+REPORT LOG TIMESTAMP: 2019-10-12T19:39:59-04:00
+Command Given: movie-this
+-----------
+Movie Title: Mr. Nobody
+Release Date: 2009
+IMDB Rating: 7.8/10
+Rotten Tomattos Rating: 67%
+Country Produced: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Movie Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+-----------
+REPORT LOG TIMESTAMP: 2019-10-12T19:40:47-04:00
+Command Given: do-what-it-says
+-----------
+Artist: Backstreet Boys
+Song Name: I Want It That Way
+URL: https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6
+-----------
+REPORT LOG TIMESTAMP: 2019-10-12T19:41:29-04:00
+Command Given: do-what-it-says
+************
+Artist: Backstreet Boys
+Song Name: I Want It That Way
+URL: https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6
+-----------
+REPORT LOG TIMESTAMP: 2019-10-12T19:41:54-04:00
+Command Given: do-what-it-says
+************
+Artist: Backstreet Boys
+Song Name: I Want It That Way
+URL: https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6
+-----------
+REPORT LOG TIMESTAMP: 2019-10-12T19:42:30-04:00
+Command Given: do-what-it-says
+************
+Artist: Backstreet Boys
+Song Name: I Want It That Way
+URL: https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6
+-----------
+REPORT LOG TIMESTAMP: 2019-10-12T19:47:16-04:00
+Command Given: help
+************
