@@ -17,7 +17,7 @@ liri-node-app is made to conect to spotify and run a couple of commands
 
 `node liri.js do-what-it-says`
 
-
+If you want to clone and run it, they would need to supply you own .env file for it to work.
 
  ### What Each Command Should Do
 
