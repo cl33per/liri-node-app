@@ -21,9 +21,9 @@ liri-node-app is made to conect to spotify and run a couple of commands
 
 ## Before running app
 You need to supply you own .env file for or replace the api keys:
-'spotify'
-'bandkey'
-'movie'
+`spotify`
+`bandkey`
+`movie`
 
  ### What Each Command Should Do
 
