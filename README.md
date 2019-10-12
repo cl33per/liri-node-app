@@ -10,8 +10,11 @@
 liri-node-app is made to conect to spotify and run a couple of commands 
 
 `node liri.js concert-this <artist/band name here>`
+
 `node liri.js spotify-this-song '<song name here>'`
+
 `node liri.js movie-this '<movie name here>'`
+
 `node liri.js do-what-it-says`
 
 
