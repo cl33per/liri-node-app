@@ -19,7 +19,7 @@ liri-node-app is made to conect to spotify and run a couple of commands
 
 `node liri.js help`
 
-## Before running app
+## Importnat before running app!
 You need to supply you own .env file for or replace the api keys:
 `spotify`
 `bandkey`
