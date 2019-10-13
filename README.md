@@ -1,7 +1,7 @@
 # liri-node-app
 ![GitHub followers](https://img.shields.io/github/followers/cl33per?style=social)
 [![GitHub issues](https://img.shields.io/github/issues/cl33per/liri-node-app)](https://github.com/cl33per/liri-node-app/issues)
-![GitHub](https://img.shields.io/github/license/cl33per/liri-node-app)
+[![GitHub](https://img.shields.io/github/license/cl33per/liri-node-app)](https://img.shields.io/github/license/cl33per/liri-node-app)
 ![GitHub top language](https://img.shields.io/github/languages/top/cl33per/liri-node-app)
 ![GitHub last commit](https://img.shields.io/github/last-commit/cl33per/liri-node-app)
 
