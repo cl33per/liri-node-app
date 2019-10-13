@@ -19,7 +19,7 @@ liri-node-app is made to conect to spotify and run a couple of commands
 
 `node liri.js help`
 
-## Importnat before running app!
+## Importnat before running app!cd 
 You need to supply you own .env file for or replace the api keys:
 `spotify`
 `bandkey`
@@ -94,5 +94,6 @@ You need to supply you own .env file for or replace the api keys:
 
      * Edit the text in random.txt to test out the feature for movie-this and concert-this.
 
-
+## Bugs and feature requests
+Have a bug or a feature request? [please open a new issue](https://github.com/cl33per/liri-node-app/issues/new)
   
