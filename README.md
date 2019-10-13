@@ -38,7 +38,7 @@ You need to supply you own .env file for or replace the api keys:
      * Date of the Event (use moment to format this as "MM/DD/YYYY")
 
 2. `node liri.js spotify-this-song '<song name here>'`
-
+  ![Concert This](demo/spotify-this-song.gif)
    * This will show the following information about the song in your terminal/bash window
 
      * Artist(s)
@@ -64,7 +64,7 @@ You need to supply you own .env file for or replace the api keys:
    * Step Four: On the next screen, scroll down to where you see your client id and client secret. Copy these values down somewhere, you'll need them to use the Spotify API and the [node-spotify-api package](https://www.npmjs.com/package/node-spotify-api).
 
 3. `node liri.js movie-this '<movie name here>'`
-
+  ![Concert This](demo/movie-this.gif)
    * This will output the following information to your terminal/bash window:
 
      ```
@@ -87,7 +87,7 @@ You need to supply you own .env file for or replace the api keys:
    * You'll use the `axios` package to retrieve data from the OMDB API. Like all of the in-class activities, the OMDB API requires an API key. You may use `trilogy`.
 
 4. `node liri.js do-what-it-says`
-
+  ![Concert This](demo/do-what-it-says.gif)
    * Using the `fs` Node package, LIRI will take the text inside of random.txt and then use it to call one of LIRI's commands.
 
      * It should run `spotify-this-song` for "I Want it That Way," as follows the text in `random.txt`.
