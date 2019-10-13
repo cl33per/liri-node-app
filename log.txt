@@ -213,3 +213,52 @@ URL: https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6
 REPORT LOG TIMESTAMP: 2019-10-12T19:47:16-04:00
 Command Given: help
 ************
+REPORT LOG TIMESTAMP: 2019-10-12T19:58:53-04:00
+Command Given: concert-this
+************
+REPORT LOG TIMESTAMP: 2019-10-12T19:59:37-04:00
+Command Given: concert-this
+************
+REPORT LOG TIMESTAMP: 2019-10-12T19:59:50-04:00
+Command Given: concert-this
+************
+Venue: The Cotillion Ballroom
+City: Wichita
+Date: 10/13/19
+-----------
+Venue: Orpheum Theater – Flagstaff
+City: Flagstaff
+Date: 10/15/19
+-----------
+Venue: The Fox Theater Pomona
+City: Pomona
+Date: 10/18/19
+-----------
+Venue: Fremont Theater
+City: San Luis Obispo
+Date: 10/17/19
+-----------
+Venue: Day n vegas
+City: Las Vegas
+Date: 11/01/19
+-----------
+Venue: Las Vegas Festival Grounds
+City: Las Vegas
+Date: 11/03/19
+-----------
+Venue: The Republik
+City: Honolulu
+Date: 11/09/19
+-----------
+Venue: Mulligans on the Blue
+City: Kihei
+Date: 11/10/19
+-----------
+Venue: Corona Capital Festival 2019
+City: Mexico City
+Date: 11/16/19
+-----------
+Venue: Williwaw Social
+City: Anchorage
+Date: 11/22/19
+-----------

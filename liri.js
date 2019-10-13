@@ -4,8 +4,10 @@ var keys = require("./keys.js");
 //Spotify keys
 var Spotify = require('node-spotify-api');
 var spotify = new Spotify(keys.spotify);
+
 //Bandlkey
 var bandkey = keys.band.id;
+
 //moviekey
 var movie = keys.movies.id;
 
@@ -29,13 +31,18 @@ var functionArgument = process.argv[3];
 // declaring functions 
 function concert() {
     logResults(timeStamp);
+    //if not argument is passed the search for Hippie Sabotage
+    if (functionArgument === undefined) {
+        functionArgument = "Hippie Sabotage"
+    }
+    // run axios query
     axios
         .get("https://rest.bandsintown.com/artists/" + functionArgument + "/events?app_id=" + bandkey)
         // If the axios was successful...
         .then(function (response) {
             var results = response.data;
             for (var i = 0; i < results.length; i++) {
-                //Display's info
+                // loop through results and display's info
                 var venuName = "Venue: " + results[i].venue.name;
                 var venuCity = "City: " + results[i].venue.city;
                 var venueDate = "Date: " + moment(results[i].datetime).format("MM/DD/YY");
