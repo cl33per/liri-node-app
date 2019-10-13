@@ -262,3 +262,767 @@ Venue: Williwaw Social
 City: Anchorage
 Date: 11/22/19
 -----------
+REPORT LOG TIMESTAMP: 2019-10-12T20:27:09-04:00
+Command Given: concert-this
+************
+REPORT LOG TIMESTAMP: 2019-10-12T20:27:29-04:00
+Command Given: concert-this
+************
+REPORT LOG TIMESTAMP: 2019-10-12T20:27:34-04:00
+Command Given: concert-this
+************
+REPORT LOG TIMESTAMP: 2019-10-12T20:27:42-04:00
+Command Given: concert-this
+************
+Venue: The Cotillion Ballroom
+City: Wichita
+Date: 10/13/19
+-----------
+Venue: The Fox Theater Pomona
+City: Pomona
+Date: 10/18/19
+-----------
+Venue: Las Vegas Festival Grounds
+City: Las Vegas
+Date: 11/03/19
+-----------
+Venue: The Republik
+City: Honolulu
+Date: 11/09/19
+-----------
+Venue: Mulligans on the Blue
+City: Kihei
+Date: 11/10/19
+-----------
+Venue: Corona Capital Festival 2019
+City: Mexico City
+Date: 11/16/19
+-----------
+Venue: Williwaw Social
+City: Anchorage
+Date: 11/22/19
+-----------
+Venue: Day n vegas
+City: Las Vegas
+Date: 11/01/19
+-----------
+Venue: Fremont Theater
+City: San Luis Obispo
+Date: 10/17/19
+-----------
+Venue: Orpheum Theater – Flagstaff
+City: Flagstaff
+Date: 10/15/19
+-----------
+REPORT LOG TIMESTAMP: 2019-10-12T20:27:54-04:00
+Command Given: concert-this
+************
+Venue: National University of San Marcos
+City: Lima District
+Date: 11/23/19
+-----------
+Venue: Coliseo General Rumiñahui
+City: Quito
+Date: 11/27/19
+-----------
+Venue: 3Arena
+City: Dublin
+Date: 01/14/20
+-----------
+Venue: Manchester Arena
+City: Manchester
+Date: 01/16/20
+-----------
+Venue: Utilita Arena
+City: Newcastle Upon Tyne
+Date: 01/17/20
+-----------
+Venue: The SSE Hydro
+City: Glasgow
+Date: 01/18/20
+-----------
+Venue: FlyDSA Arena
+City: Sheffield
+Date: 01/20/20
+-----------
+Venue: Motorpoint Arena
+City: Nottingham
+Date: 01/21/20
+-----------
+Venue: Motorpoint Arena Cardiff
+City: Cardiff
+Date: 01/22/20
+-----------
+Venue: Birmingham Arena
+City: Birmingham
+Date: 01/24/20
+-----------
+Venue: The O2
+City: London
+Date: 01/25/20
+-----------
+Venue: Ziggo Dome
+City: Amsterdam
+Date: 01/28/20
+-----------
+Venue: Festhalle Messe Frankfurt GmbH
+City: Frankfurt Am Main
+Date: 01/29/20
+-----------
+Venue: Accorhotels Arena
+City: Paris
+Date: 01/30/20
+-----------
+Venue: Rockhal
+City: Esch-sur-alzette
+Date: 02/01/20
+-----------
+Venue: Halle Tony Garnier
+City: Lyon
+Date: 02/02/20
+-----------
+Venue: Papp Laszlo Arena
+City: Budapest
+Date: 02/04/20
+-----------
+Venue: Atlas Arena
+City: Łódź
+Date: 02/06/20
+-----------
+Venue: Hanns-Martin-Schleyer-Halle
+City: Stuttgart
+Date: 02/08/20
+-----------
+Venue: Olympiahalle
+City: Munich
+Date: 02/09/20
+-----------
+Venue: Mediolanum Forum
+City: Milan
+Date: 02/11/20
+-----------
+Venue: Hallenstadion
+City: Zürich
+Date: 02/12/20
+-----------
+Venue: Wiener Stadthalle
+City: Vienna
+Date: 02/14/20
+-----------
+Venue: Barclaycard Arena Hamburg
+City: Hamburg
+Date: 02/16/20
+-----------
+Venue: KNOTFEST Mexico
+City: Mexico City
+Date: 11/30/19
+-----------
+Venue: Westfalenhalle 1
+City: Dortmund
+Date: 02/18/20
+-----------
+Venue: Royal Arena
+City: Copenhagen
+Date: 02/20/20
+-----------
+Venue: Ericsson Globe
+City: Stockholm
+Date: 02/21/20
+-----------
+Venue: Telenor Arena
+City: Oslo
+Date: 02/22/20
+-----------
+Venue: Hartwall Arena
+City: Helsinki
+Date: 02/24/20
+-----------
+Venue: Pedregal Events Center
+City: Heredia
+Date: 12/04/19
+-----------
+Venue: KNOTFEST Colombia
+City: Chía
+Date: 12/06/19
+-----------
+Venue: Mercedes-Benz Arena
+City: Berlin
+Date: 02/17/20
+-----------
+REPORT LOG TIMESTAMP: 2019-10-12T20:29:04-04:00
+Command Given: concert-this
+************
+Venue: National University of San Marcos
+City: Lima District
+Date: 11/23/19
+-----------
+Venue: Coliseo General Rumiñahui
+City: Quito
+Date: 11/27/19
+-----------
+Venue: 3Arena
+City: Dublin
+Date: 01/14/20
+-----------
+Venue: Manchester Arena
+City: Manchester
+Date: 01/16/20
+-----------
+Venue: Utilita Arena
+City: Newcastle Upon Tyne
+Date: 01/17/20
+-----------
+Venue: The SSE Hydro
+City: Glasgow
+Date: 01/18/20
+-----------
+Venue: FlyDSA Arena
+City: Sheffield
+Date: 01/20/20
+-----------
+Venue: Motorpoint Arena
+City: Nottingham
+Date: 01/21/20
+-----------
+Venue: Motorpoint Arena Cardiff
+City: Cardiff
+Date: 01/22/20
+-----------
+Venue: Birmingham Arena
+City: Birmingham
+Date: 01/24/20
+-----------
+Venue: The O2
+City: London
+Date: 01/25/20
+-----------
+Venue: Ziggo Dome
+City: Amsterdam
+Date: 01/28/20
+-----------
+Venue: Festhalle Messe Frankfurt GmbH
+City: Frankfurt Am Main
+Date: 01/29/20
+-----------
+Venue: Accorhotels Arena
+City: Paris
+Date: 01/30/20
+-----------
+Venue: Rockhal
+City: Esch-sur-alzette
+Date: 02/01/20
+-----------
+Venue: Halle Tony Garnier
+City: Lyon
+Date: 02/02/20
+-----------
+Venue: Papp Laszlo Arena
+City: Budapest
+Date: 02/04/20
+-----------
+Venue: Atlas Arena
+City: Łódź
+Date: 02/06/20
+-----------
+Venue: Hanns-Martin-Schleyer-Halle
+City: Stuttgart
+Date: 02/08/20
+-----------
+Venue: Olympiahalle
+City: Munich
+Date: 02/09/20
+-----------
+Venue: Mediolanum Forum
+City: Milan
+Date: 02/11/20
+-----------
+Venue: Hallenstadion
+City: Zürich
+Date: 02/12/20
+-----------
+Venue: Wiener Stadthalle
+City: Vienna
+Date: 02/14/20
+-----------
+Venue: Barclaycard Arena Hamburg
+City: Hamburg
+Date: 02/16/20
+-----------
+Venue: Mercedes-Benz Arena
+City: Berlin
+Date: 02/17/20
+-----------
+Venue: Westfalenhalle 1
+City: Dortmund
+Date: 02/18/20
+-----------
+Venue: Royal Arena
+City: Copenhagen
+Date: 02/20/20
+-----------
+Venue: Ericsson Globe
+City: Stockholm
+Date: 02/21/20
+-----------
+Venue: Telenor Arena
+City: Oslo
+Date: 02/22/20
+-----------
+Venue: Hartwall Arena
+City: Helsinki
+Date: 02/24/20
+-----------
+Venue: Pedregal Events Center
+City: Heredia
+Date: 12/04/19
+-----------
+Venue: KNOTFEST Colombia
+City: Chía
+Date: 12/06/19
+-----------
+Venue: KNOTFEST Mexico
+City: Mexico City
+Date: 11/30/19
+-----------
+REPORT LOG TIMESTAMP: 2019-10-12T20:29:25-04:00
+Command Given: spotify-this-song
+************
+Artist: Labrinth
+Song Name: Mount Everest
+URL: https://open.spotify.com/track/18wCJcoFmXZ0jfrFhF6cYS
+-----------
+REPORT LOG TIMESTAMP: 2019-10-12T20:29:55-04:00
+Command Given: movie-this
+************
+Movie Title: The Matrix
+Release Date: 1999
+IMDB Rating: 8.7/10
+Rotten Tomattos Rating: 88%
+Country Produced: USA
+Language: English
+Movie Plot: A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
+Actors: Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving
+-----------
+REPORT LOG TIMESTAMP: 2019-10-12T20:30:07-04:00
+Command Given: do-what-it-says
+************
+Artist: Backstreet Boys
+Song Name: I Want It That Way
+URL: https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6
+-----------
+REPORT LOG TIMESTAMP: 2019-10-12T20:30:14-04:00
+Command Given: help
+************
+REPORT LOG TIMESTAMP: 2019-10-12T20:32:50-04:00
+Command Given: concert-this
+************
+Venue: National University of San Marcos
+City: Lima District
+Date: 11/23/19
+-----------
+Venue: Coliseo General Rumiñahui
+City: Quito
+Date: 11/27/19
+-----------
+Venue: KNOTFEST Mexico
+City: Mexico City
+Date: 11/30/19
+-----------
+Venue: Pedregal Events Center
+City: Heredia
+Date: 12/04/19
+-----------
+Venue: KNOTFEST Colombia
+City: Chía
+Date: 12/06/19
+-----------
+Venue: 3Arena
+City: Dublin
+Date: 01/14/20
+-----------
+Venue: Manchester Arena
+City: Manchester
+Date: 01/16/20
+-----------
+Venue: Utilita Arena
+City: Newcastle Upon Tyne
+Date: 01/17/20
+-----------
+Venue: FlyDSA Arena
+City: Sheffield
+Date: 01/20/20
+-----------
+Venue: Motorpoint Arena
+City: Nottingham
+Date: 01/21/20
+-----------
+Venue: The SSE Hydro
+City: Glasgow
+Date: 01/18/20
+-----------
+Venue: Ziggo Dome
+City: Amsterdam
+Date: 01/28/20
+-----------
+Venue: Festhalle Messe Frankfurt GmbH
+City: Frankfurt Am Main
+Date: 01/29/20
+-----------
+Venue: Accorhotels Arena
+City: Paris
+Date: 01/30/20
+-----------
+Venue: Rockhal
+City: Esch-sur-alzette
+Date: 02/01/20
+-----------
+Venue: Halle Tony Garnier
+City: Lyon
+Date: 02/02/20
+-----------
+Venue: Papp Laszlo Arena
+City: Budapest
+Date: 02/04/20
+-----------
+Venue: Atlas Arena
+City: Łódź
+Date: 02/06/20
+-----------
+Venue: Hanns-Martin-Schleyer-Halle
+City: Stuttgart
+Date: 02/08/20
+-----------
+Venue: Olympiahalle
+City: Munich
+Date: 02/09/20
+-----------
+Venue: Mediolanum Forum
+City: Milan
+Date: 02/11/20
+-----------
+Venue: Hallenstadion
+City: Zürich
+Date: 02/12/20
+-----------
+Venue: Wiener Stadthalle
+City: Vienna
+Date: 02/14/20
+-----------
+Venue: Barclaycard Arena Hamburg
+City: Hamburg
+Date: 02/16/20
+-----------
+Venue: Mercedes-Benz Arena
+City: Berlin
+Date: 02/17/20
+-----------
+Venue: Westfalenhalle 1
+City: Dortmund
+Date: 02/18/20
+-----------
+Venue: Royal Arena
+City: Copenhagen
+Date: 02/20/20
+-----------
+Venue: Ericsson Globe
+City: Stockholm
+Date: 02/21/20
+-----------
+Venue: Telenor Arena
+City: Oslo
+Date: 02/22/20
+-----------
+Venue: Hartwall Arena
+City: Helsinki
+Date: 02/24/20
+-----------
+Venue: Birmingham Arena
+City: Birmingham
+Date: 01/24/20
+-----------
+Venue: The O2
+City: London
+Date: 01/25/20
+-----------
+Venue: Motorpoint Arena Cardiff
+City: Cardiff
+Date: 01/22/20
+-----------
+REPORT LOG TIMESTAMP: 2019-10-12T20:33:11-04:00
+Command Given: concert-this
+************
+Venue: The Cotillion Ballroom
+City: Wichita
+Date: 10/13/19
+-----------
+Venue: Orpheum Theater – Flagstaff
+City: Flagstaff
+Date: 10/15/19
+-----------
+Venue: Fremont Theater
+City: San Luis Obispo
+Date: 10/17/19
+-----------
+Venue: The Fox Theater Pomona
+City: Pomona
+Date: 10/18/19
+-----------
+Venue: Day n vegas
+City: Las Vegas
+Date: 11/01/19
+-----------
+Venue: The Republik
+City: Honolulu
+Date: 11/09/19
+-----------
+Venue: Las Vegas Festival Grounds
+City: Las Vegas
+Date: 11/03/19
+-----------
+Venue: Corona Capital Festival 2019
+City: Mexico City
+Date: 11/16/19
+-----------
+Venue: Williwaw Social
+City: Anchorage
+Date: 11/22/19
+-----------
+Venue: Mulligans on the Blue
+City: Kihei
+Date: 11/10/19
+-----------
+REPORT LOG TIMESTAMP: 2019-10-12T20:33:33-04:00
+Command Given: spotify-this-song
+************
+Artist: Labrinth
+Song Name: Mount Everest
+URL: https://open.spotify.com/track/18wCJcoFmXZ0jfrFhF6cYS
+-----------
+REPORT LOG TIMESTAMP: 2019-10-12T20:33:46-04:00
+Command Given: movie-this
+************
+Movie Title: The Matrix
+Release Date: 1999
+IMDB Rating: 8.7/10
+Rotten Tomattos Rating: 88%
+Country Produced: USA
+Language: English
+Movie Plot: A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
+Actors: Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving
+-----------
+REPORT LOG TIMESTAMP: 2019-10-12T20:33:55-04:00
+Command Given: movie-this
+************
+REPORT LOG TIMESTAMP: 2019-10-12T20:34:02-04:00
+Command Given: help
+************
+REPORT LOG TIMESTAMP: 2019-10-12T20:36:38-04:00
+Command Given: concert-this
+************
+REPORT LOG TIMESTAMP: 2019-10-12T20:36:42-04:00
+Command Given: concert-this
+************
+REPORT LOG TIMESTAMP: 2019-10-12T20:36:50-04:00
+Command Given: concert-this
+************
+REPORT LOG TIMESTAMP: 2019-10-12T20:37:05-04:00
+Command Given: concert-this
+************
+Venue: St Luke's
+City: Glasgow
+Date: 02/18/20
+-----------
+Venue: Gorilla
+City: Manchester
+Date: 02/19/20
+-----------
+Venue: Trix Club
+City: Antwerp
+Date: 02/23/20
+-----------
+Venue: La Machine du Moulin Rouge
+City: Paris
+Date: 02/24/20
+-----------
+Venue: La Laiterie
+City: Strasbourg
+Date: 02/26/20
+-----------
+Venue: Club Volta
+City: Köln
+Date: 02/27/20
+-----------
+Venue: Lido Berlin
+City: Berlin
+Date: 03/01/20
+-----------
+Venue: Melkweg Oude Zaal
+City: Amsterdam
+Date: 02/22/20
+-----------
+Venue: Karsten Jahnke Konzertdirektion GmbH
+City: Hamburg
+Date: 02/28/20
+-----------
+Venue: Electric Brixton
+City: London
+Date: 02/20/20
+-----------
+REPORT LOG TIMESTAMP: 2019-10-12T20:37:37-04:00
+Command Given: spotify-this-song
+************
+Artist: Linkin Park
+Song Name: Numb
+URL: https://open.spotify.com/track/2nLtzopw4rPReszdYBJU6h
+-----------
+REPORT LOG TIMESTAMP: 2019-10-12T20:37:54-04:00
+Command Given: movie-this
+************
+Movie Title: The Matrix
+Release Date: 1999
+IMDB Rating: 8.7/10
+Rotten Tomattos Rating: 88%
+Country Produced: USA
+Language: English
+Movie Plot: A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
+Actors: Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving
+-----------
+REPORT LOG TIMESTAMP: 2019-10-12T20:38:03-04:00
+Command Given: do-what-it-says
+************
+Artist: Backstreet Boys
+Song Name: I Want It That Way
+URL: https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6
+-----------
+REPORT LOG TIMESTAMP: 2019-10-12T20:38:17-04:00
+Command Given: help
+************
+REPORT LOG TIMESTAMP: 2019-10-12T20:38:40-04:00
+Command Given: concert-this
+************
+Venue: St Luke's
+City: Glasgow
+Date: 02/18/20
+-----------
+Venue: Trix Club
+City: Antwerp
+Date: 02/23/20
+-----------
+Venue: La Machine du Moulin Rouge
+City: Paris
+Date: 02/24/20
+-----------
+Venue: La Laiterie
+City: Strasbourg
+Date: 02/26/20
+-----------
+Venue: Gorilla
+City: Manchester
+Date: 02/19/20
+-----------
+Venue: Karsten Jahnke Konzertdirektion GmbH
+City: Hamburg
+Date: 02/28/20
+-----------
+Venue: Lido Berlin
+City: Berlin
+Date: 03/01/20
+-----------
+Venue: Club Volta
+City: Köln
+Date: 02/27/20
+-----------
+Venue: Electric Brixton
+City: London
+Date: 02/20/20
+-----------
+Venue: Melkweg Oude Zaal
+City: Amsterdam
+Date: 02/22/20
+-----------
+REPORT LOG TIMESTAMP: 2019-10-12T20:39:08-04:00
+Command Given: concert-this
+************
+Venue: St Luke's
+City: Glasgow
+Date: 02/18/20
+-----------
+Venue: Trix Club
+City: Antwerp
+Date: 02/23/20
+-----------
+Venue: La Machine du Moulin Rouge
+City: Paris
+Date: 02/24/20
+-----------
+Venue: La Laiterie
+City: Strasbourg
+Date: 02/26/20
+-----------
+Venue: Club Volta
+City: Köln
+Date: 02/27/20
+-----------
+Venue: Karsten Jahnke Konzertdirektion GmbH
+City: Hamburg
+Date: 02/28/20
+-----------
+Venue: Lido Berlin
+City: Berlin
+Date: 03/01/20
+-----------
+Venue: Gorilla
+City: Manchester
+Date: 02/19/20
+-----------
+Venue: Electric Brixton
+City: London
+Date: 02/20/20
+-----------
+Venue: Melkweg Oude Zaal
+City: Amsterdam
+Date: 02/22/20
+-----------
+REPORT LOG TIMESTAMP: 2019-10-12T20:39:53-04:00
+Command Given: spotify-this-song
+************
+Artist: Linkin Park
+Song Name: Numb
+URL: https://open.spotify.com/track/2nLtzopw4rPReszdYBJU6h
+-----------
+REPORT LOG TIMESTAMP: 2019-10-12T20:40:23-04:00
+Command Given: movie-this
+************
+Movie Title: The Matrix
+Release Date: 1999
+IMDB Rating: 8.7/10
+Rotten Tomattos Rating: 88%
+Country Produced: USA
+Language: English
+Movie Plot: A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
+Actors: Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving
+-----------
+REPORT LOG TIMESTAMP: 2019-10-12T20:40:44-04:00
+Command Given: do-what-it-says
+************
+Artist: Backstreet Boys
+Song Name: I Want It That Way
+URL: https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6
+-----------
+REPORT LOG TIMESTAMP: 2019-10-12T20:41:34-04:00
+Command Given: do-what-it-says
+************
+Artist: Backstreet Boys
+Song Name: I Want It That Way
+URL: https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6
+-----------
+REPORT LOG TIMESTAMP: 2019-10-12T20:41:44-04:00
+Command Given: do-what-it-says
+************
+Artist: Backstreet Boys
+Song Name: I Want It That Way
+URL: https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6
+-----------
+REPORT LOG TIMESTAMP: 2019-10-12T20:41:58-04:00
+Command Given: help
+************
