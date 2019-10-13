@@ -28,7 +28,7 @@ You need to supply you own .env file for or replace the api keys:
  ### What Each Command Should Do
 
 1. `node liri.js concert-this <artist/band name here>`
-
+![Concert This](demo/concert-this.gif)
    * This will search the Bands in Town Artist Events API (`"https://rest.bandsintown.com/artists/" + artist + "/events?app_id=codingbootcamp"`) for an artist and render the following information about each event to the terminal:
 
      * Name of the venue
