@@ -166,7 +166,27 @@ function doWhatItSays() {
         //reasign the data to functionCall and functionArgument then run the function spotifyThisSong
         functionCall = dataArr[0];
         functionArgument = dataArr[1];
-        spotifyThisSong();
+
+        switch (functionCall) {
+            case 'concert-this':
+                concert();
+                break;
+            case 'spotify-this-song':
+                spotifyThisSong();
+                break;
+            case 'movie-this':
+                movieThis();
+                break;
+            case 'do-what-it-says':
+                doWhatItSays();
+                break;
+            case 'help':
+                help()
+                break;
+            default:
+                //If none of the cases are mett then run this log. 
+                console.log('Im sorry dave I cant do that... type "node liri help" for more options');
+        };
     });
 };
 function help(){

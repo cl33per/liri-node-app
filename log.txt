@@ -1026,3 +1026,129 @@ URL: https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6
 REPORT LOG TIMESTAMP: 2019-10-12T20:41:58-04:00
 Command Given: help
 ************
+REPORT LOG TIMESTAMP: 2019-10-13T19:28:26-04:00
+Command Given: concert-this
+************
+Venue: St Luke's
+City: Glasgow
+Date: 02/18/20
+-----------
+Venue: Gorilla
+City: Manchester
+Date: 02/19/20
+-----------
+Venue: La Machine du Moulin Rouge
+City: Paris
+Date: 02/24/20
+-----------
+Venue: La Laiterie
+City: Strasbourg
+Date: 02/26/20
+-----------
+Venue: Club Volta
+City: Köln
+Date: 02/27/20
+-----------
+Venue: Karsten Jahnke Konzertdirektion GmbH
+City: Hamburg
+Date: 02/28/20
+-----------
+Venue: Lido Berlin
+City: Berlin
+Date: 03/01/20
+-----------
+Venue: Trix Club
+City: Antwerp
+Date: 02/23/20
+-----------
+Venue: Electric Brixton
+City: London
+Date: 02/20/20
+-----------
+Venue: Melkweg Oude Zaal
+City: Amsterdam
+Date: 02/22/20
+-----------
+REPORT LOG TIMESTAMP: 2019-10-13T19:29:32-04:00
+Command Given: spotify-this-song
+************
+REPORT LOG TIMESTAMP: 2019-10-13T19:29:45-04:00
+Command Given: spotify-this-song
+************
+Artist: Linkin Park
+Song Name: Numb
+URL: https://open.spotify.com/track/2nLtzopw4rPReszdYBJU6h
+-----------
+REPORT LOG TIMESTAMP: 2019-10-13T19:30:09-04:00
+Command Given: spotify-this-song
+************
+Artist: PVRIS
+Song Name: Hallucinations
+URL: https://open.spotify.com/track/7zpMz3am0n83WmDxVqp9GQ
+-----------
+REPORT LOG TIMESTAMP: 2019-10-13T19:30:26-04:00
+Command Given: help
+************
+REPORT LOG TIMESTAMP: 2019-10-13T19:31:06-04:00
+Command Given: movie-this
+************
+Movie Title: Fight Club
+Release Date: 1999
+IMDB Rating: 8.8/10
+Rotten Tomattos Rating: 79%
+Country Produced: USA, Germany
+Language: English
+Movie Plot: An insomniac office worker and a devil-may-care soapmaker form an underground fight club that evolves into something much, much more.
+Actors: Edward Norton, Brad Pitt, Meat Loaf, Zach Grenier
+-----------
+REPORT LOG TIMESTAMP: 2019-10-13T19:53:30-04:00
+Command Given: help
+************
+REPORT LOG TIMESTAMP: 2019-10-13T19:53:58-04:00
+Command Given: spotify-this-song
+************
+REPORT LOG TIMESTAMP: 2019-10-13T19:54:19-04:00
+Command Given: spotify-this-song
+************
+Artist: PVRIS
+Song Name: Hallucinations
+URL: https://open.spotify.com/track/7zpMz3am0n83WmDxVqp9GQ
+-----------
+REPORT LOG TIMESTAMP: 2019-10-13T19:54:46-04:00
+Command Given: movie-this
+************
+Movie Title: Fight Club
+Release Date: 1999
+IMDB Rating: 8.8/10
+Rotten Tomattos Rating: 79%
+Country Produced: USA, Germany
+Language: English
+Movie Plot: An insomniac office worker and a devil-may-care soapmaker form an underground fight club that evolves into something much, much more.
+Actors: Edward Norton, Brad Pitt, Meat Loaf, Zach Grenier
+-----------
+REPORT LOG TIMESTAMP: 2019-10-13T19:55:07-04:00
+Command Given: do-what-it-says
+************
+Artist: Backstreet Boys
+Song Name: I Want It That Way
+URL: https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6
+-----------
+REPORT LOG TIMESTAMP: 2019-10-13T19:55:46-04:00
+Command Given: do-what-it-says
+************
+Artist: Cooliecut
+Song Name: Red Pills (Love in the Matrix)
+URL: https://open.spotify.com/track/2vE25qwuW7TFg1xiILHfPi
+-----------
+REPORT LOG TIMESTAMP: 2019-10-13T19:59:29-04:00
+Command Given: do-what-it-says
+************
+Movie Title: The Matrix
+Release Date: 1999
+IMDB Rating: 8.7/10
+Rotten Tomattos Rating: 88%
+Country Produced: USA
+Language: English
+Movie Plot: A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
+Actors: Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving
+-----------
