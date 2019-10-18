@@ -1152,3 +1152,15 @@ Language: English
 Movie Plot: A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
 Actors: Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving
 -----------
+REPORT LOG TIMESTAMP: 2019-10-13T20:37:13-04:00
+Command Given: do-what-it-says
+************
+Movie Title: Red Dawn
+Release Date: 2012
+IMDB Rating: 5.4/10
+Rotten Tomattos Rating: 14%
+Country Produced: USA
+Language: English, Korean
+Movie Plot: A group of teenagers look to save their town from an invasion of North Korean soldiers.
+Actors: Chris Hemsworth, Josh Peck, Josh Hutcherson, Adrianne Palicki
+-----------
